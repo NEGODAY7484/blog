@@ -1,6 +1,6 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
+title: Язык разметки Markdown
+subtitle: Такой простой, но такой нужный)
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
   - admin
@@ -14,63 +14,22 @@ image:
   focal_point: ''
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+
 
 ![png](./index_1_0.png)
 
-```python
-print("Welcome to Academic!")
-```
 
-    Welcome to Academic!
+## Язык разметки Markdown
+Язык разметки Markdown - это простой язык разметки текста, который используется для форматирования и стилизации текста без необходимости заучивания сложных команд и языков программирования. Markdown был создан в 2004 году Джоном Грубером и Аароном Шварцем для использования в блогах, сайтах и электронной почте, чтобы облегчить написание и форматирование текста.
 
-## Install Python and JupyterLab
+Основная идея Markdown заключается в том, что каждый элемент разметки имеет свой собственный смысл, что позволяет быстро и легко создавать жирный текст, заголовки, списки, таблицы и ссылки. Синтаксис Markdown интуитивно понятен и достаточно простой для освоения. Вот несколько примеров:
 
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+Разметка Markdown легко конвертируется в HTML, что позволяет использовать её с любыми документами, включая web-страницы, презентации, электронные книги и документацию разработчика. Многие сайты, включая GitHub, используют Markdown для форматирования описаний репозиториев, README файлов и других документов.
 
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+Markdown является открытым стандартом и доступен для использования в любых приложениях и системах управления контентом. Существует множество инструментов и редакторов, включая Atom, VS Code, MarkdownPad и Typora, которые предоставляют возможность использовать Markdown для написания и форматирования текста.
 
-## Create or upload a Jupyter notebook
+В целом, Markdown предоставляет удобный и быстрый способ форматирования и стилизации текста без необходимости знания сложных языков программирования и позволяет пользователям сосредоточиться на содержании текста, а не на форматировании.
 
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
 
 ## Example
 
