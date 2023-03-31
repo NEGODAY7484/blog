@@ -1,5 +1,5 @@
 ---
-title: На позопрошлой неделе
+title: На прошлой неделе
 subtitle: Сейчас я расскажу вам как же классно прошла неделя, с вами Алекс !.
 
 # Summary for listings and search engines
