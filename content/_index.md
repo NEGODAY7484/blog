@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2022-10-24
 type: landing
 
@@ -18,18 +18,18 @@ sections:
       title: Умения
       
       items:
-        - name: Я
+        - name: ИИ
           description: 100%
-          icon: r-project
-          icon_pack: fab
+          icon: ":robot:"
+          icon_pack: emoji
         - name: Статистика
           description: 100%
-          icon: chart-line
-          icon_pack: fas
+          icon: ":chart:"
+          icon_pack: emoji
         - name: Фотографии
           description: 100%
-          icon: camera-retro
-          icon_pack: fas
+          icon: ":camera:"
+          icon_pack: emoji
   - block: experience
     content:
       title: Опыт
