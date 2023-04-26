@@ -53,8 +53,8 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.elibrary.ru/author_info.asp?isold=1
+    label: Follow me on eLIBRARY
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -65,7 +65,7 @@ social:
     link: https://github.com/NEGODAY7484
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/my-orcid?orcid=0009-0005-9491-8414
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
