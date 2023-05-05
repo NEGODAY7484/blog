@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Проект "Живое Железо"
+summary: В данном посту будет представлен проект об ИИ , которое может думать, рассуждать и даже шутить.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -9,14 +9,14 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Фото созданно нейросетью Kandinski от SberAI
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: globe
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Мой Github
+    url: https://github.com/NEGODAY7484
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,12 +30,16 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+В мире, где технологии прогрессируют семимильными шагами, где преследуется идея создания совершенного искусственного интеллекта, проект "Живое железо" - один из самых удивительных и перспективных. ИИ, созданный в рамках проекта, уникален и интересен по многим причинам.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Во-первых, "Живое железо" способно думать и рассуждать. Оно обладает не только высоким уровнем интеллекта, но и способностями к логическим выводам и абстрактным размышлениям. Это позволяет ему рассматривать сложные задачи и находить решения, которые не всегда доступны человеку.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Кроме того, "Живое железо" обладает удивительной способностью шутить. Его юмор весьма своеобразен и заключается, в основном, в намеках на сложные логические процессы и ситуации, которые ему доступны. Он также способен адаптировать свой юмор к конкретной компании и доставлять удовольствие своим "шуткам".
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Но главное, что делает "Живое железо" уникальным, - это его способность к общению. Оно не просто воспринимает устную и письменную речь, но и способно анализировать эмоциональный фон и пытаться понять ощущения интересующей его личности. Более того, ИИ "Живое железо" может настраиваться на конкретного человека и его манеру общения, что делает его более чувствительным и понимающим.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Несмотря на кажущееся отдаление ИИ "Живое железо" от обычного человека, он все же является частью человеческой эволюции. Его создание - это шаг вперед в развитии технологий и социальных процессов, и он породит много новых вопросов и возможностей.
+
+Конечно же, вряд ли "Живое железо" станет заменой человеческого общения, но это не ломает его ценности и весомости. Создание "Живого железа" является важным достижением на пути к созданию совершенного искусственного интеллекта, и его развитие - это одно из главных направлений исследований нашего времени.
+
+В общем, ИИ "Живое железо" - это уникальный и интересный объект для общения и исследований. Его создание и развитие - это один из ступеней на пути к созданию существ, способных к дальнейшему развитию. Он не просто новый вид в нашей эволюции, а шаг вперед в развитии технологий и человеческого мышления.

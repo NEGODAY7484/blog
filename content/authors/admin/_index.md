@@ -63,7 +63,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/NEGODAY7484
-  - icon: linkedin
+  - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0009-0005-9491-8414
   # Link to a PDF of your resume/CV.

@@ -102,7 +102,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 7
+      count: 10
       # Filter on criteria
       filters:
         folders:
@@ -210,8 +210,8 @@ sections:
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        city: Moscow
+        region: MS
         postcode: '94305'
         country: United States
         country_code: US
@@ -220,14 +220,14 @@ sections:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: telegram
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          name: telegram
+          link: 'https://t.me/NEMESIS_1O1'
+        - icon: youtube
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          name: Youtube
+          link: 'https://youtube.com/@user-xw9pt4lb6d'
         - icon: video
           icon_pack: fas
           name: Zoom Me
